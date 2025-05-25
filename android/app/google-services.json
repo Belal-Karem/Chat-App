@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694938247798",
+    "project_id": "chat-app-d0274",
+    "storage_bucket": "chat-app-d0274.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694938247798:android:a1bae073594139a1cdf557",
+        "android_client_info": {
+          "package_name": "com.example.belal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdYhPJgmeTlzfYZUYoiVQZka72lKyCbKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
